@@ -1,5 +1,23 @@
 # StudentAI — AI-Based Student Performance Prediction
 
+## Team Details
+
+
+<div align="center">
+
+| 👤 Team Member | 🎓 Roll Number |
+|----------------|----------------|
+| **Anmol Kumar** | `2210990122` |
+| **Chirag Dahiya** | `2210990239` |
+| **Augustya** | `2210990196` |
+| **Aryan Sonkar** | `2210990182` |
+
+</div>
+
+Institute: Chitkara University  
+Project Type: Research Project  
+Status: Completed
+
 A full-stack academic project that predicts whether a student is likely to **pass or fail** from attendance, internal marks, study hours, and previous performance. It combines a **React** client, **Node.js / Express** API with **MongoDB**, **JWT authentication**, and a **Python FastAPI** microservice that serves a trained **Random Forest** model built with **scikit-learn**.
 
 ### Research paper (PDF)
